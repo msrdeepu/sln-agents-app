@@ -6,3 +6,12 @@
   background-color: #262525;
   color: white;
 }
+.footer-powered-link-dgbits a {
+  text-decoration: none;
+  color: orange;
+  font-weight: bold;
+}
+.footer-owered-by-text {
+  text-align: center;
+  margin-top: 5px;
+}

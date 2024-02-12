@@ -24,6 +24,7 @@ const Business = () => {
             </li>
           ))}
         </ul>
+        <h3>Total Commission: </h3>
       </Card>
     </div>
   );
