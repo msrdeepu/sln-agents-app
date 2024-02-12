@@ -1,0 +1,8 @@
+.profile-main-container {
+  min-height: 76vh;
+  max-height: auto;
+  background-image: url("../../public/assets/imgfour.jpg");
+  background-position: center center;
+  width: 100%;
+  background-size: cover;
+}

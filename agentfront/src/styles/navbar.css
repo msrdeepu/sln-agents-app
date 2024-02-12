@@ -1,0 +1,39 @@
+/* font-family: 'Inter', sans-serif; */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400&display=swap");
+* {
+  font-family: "Inter", sans-serif;
+}
+.main-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 15px;
+  background-color: dodgerblue;
+  color: white;
+  height: 12vh;
+}
+.nav-items-container-ul {
+  list-style: none;
+  text-decoration: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.nav-items-container-ul a {
+  margin-left: 8px;
+  text-decoration: none;
+  color: white;
+}
+.nav-items-container-ul a:hover {
+  color: purple;
+}
+.nav-brand-logo {
+  height: 50px;
+  background-color: white;
+  padding: 8px;
+  border-radius: 8px;
+}

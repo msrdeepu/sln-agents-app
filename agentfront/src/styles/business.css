@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400&display=swap");
+* {
+  font-family: "Inter", sans-serif;
+}
+.business-main-container {
+  min-height: 76vh;
+  max-height: auto;
+  background-image: url("../../public/assets/imgthree.jpg");
+  width: 100%;
+  background-size: cover;
+  background-position: center center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cards-container-business {
+  width: 90%;
+  height: auto;
+  border-radius: 12px;
+  padding: 15px;
+}
+.business-receipts-ul {
+  list-style: none;
+  line-height: 30px;
+}
